@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **umamaheswarymillini@gamil.com**
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="450">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_millennium__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_millennium__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_milllennium__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_millennium__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
