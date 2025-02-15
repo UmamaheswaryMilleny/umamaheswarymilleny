@@ -6,7 +6,13 @@
 <h3 align="center">A passionate self-taught Developer from Kerala,India</h3>
 
 
+## 📊 GitHub Stats
 
+![Umamaheswary Milleny GitHub stats](https://github-readme-stats.vercel.app/api?username=umamaheswarymilleny&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umamaheswarymilleny&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umamaheswarymilleny&theme=tokyonight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaheswarymilleny&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswarymilleny" /> </p>
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
