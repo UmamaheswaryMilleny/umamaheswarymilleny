@@ -1,5 +1,5 @@
 
-<img  align="right" alt="coding" width="1010" src="https://github.com/UmamaheswaryMilleny/umamaheswarymilleny/blob/main/Pixel%20Art.gif"> 
+<img align="right" alt="coding" width="1010" src="https://raw.githubusercontent.com/UmamaheswaryMilleny/umamaheswarymilleny/main/Pixel%20Art.gif">
 
 .
 <h1 align="center">Hi 👋, I'm Umamaheswary Milleny</h1>
@@ -8,7 +8,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaheswarymilleny&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswarymilleny" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=umamaheswarymilleny&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswarymilleny" />
+</p>
+
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 
 
